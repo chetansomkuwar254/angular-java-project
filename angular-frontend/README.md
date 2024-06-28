@@ -20,7 +20,7 @@ sudo npm install -g @angular/cli@14.2.1
 ```
 ## Step 4: Verify Angular CLI installation
 ```bash
-ng --version
+ng version
 ```
 ## Step 5: Install project dependencies (if needed)
 
